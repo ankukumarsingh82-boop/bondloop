@@ -4,7 +4,7 @@
 
 A lightweight web app where a small group checks in with a daily prompt, shares one short reflection, and gets gentle conversation starters for members who seem quiet (no check-in in the last 2 days). Tracks: Human Connection / AI & Social Interaction / Communities.
 
-**Demo:** https://ankukumarsingh82-boop.github.io/bondloop/
+**Demo:** http://edvera.me/bondloop/
 
 ![screenshot](docs/screenshot.png)
 
